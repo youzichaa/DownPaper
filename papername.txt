@@ -1,0 +1,149 @@
+CCS '20: 2020 ACM SIGSAC Conference on Computer and Communications Security, Virtual Event, USA, November 9-13, 2020.
+Machine Learning and Security: The Good, The Bad, and The Ugly.
+Bypassing Tor Exit Blocking with Exit Bridge Onion Services.
+CLAPS: Client-Location-Aware Path Selection in Tor.
+Poking a Hole in the Wall: Efficient Censorship-Resistant Internet Communications by Parasitizing on WebRTC.
+Censored Planet: An Internet-wide, Longitudinal Censorship Observatory.
+Gotta Catch'Em All: Using Honeypots to Catch Adversarial Attacks on Neural Networks.
+A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models.
+DeepDyve: Dynamic Verification for Deep Neural Networks.
+Composite Backdoor Attack for Deep Neural Network by Mixing Existing Benign Features.
+Devil is Virtual: Reversing Virtual Inheritance in C++ Binaries.
+PatchScope: Memory Object Centric Patch Diffing.
+FirmXRay: Detecting Bluetooth Link Layer Vulnerabilities From Bare-Metal Firmware.
+Privaros: A Framework for Privacy-Compliant Delivery Drones.
+A Performant, Misuse-Resistant API for Primality Testing.
+ProMACs: Progressive and Resynchronizing MACs for Continuous Efficient Authentication of Message Streams.
+LadderLeak: Breaking ECDSA with Less than One Bit of Nonce Leakage.
+Security of Streaming Encryption in Google's Tink Library.
+Cyber-Physical Inconsistency Vulnerability Identification for Safety Checks in Robotic Vehicles.
+HoneyPLC: A Next-Generation Honeypot for Industrial Control Systems.
+Phantom of the ADAS: Securing Advanced Driver-Assistance Systems from Split-Second Phantom Attacks.
+T2Pair: Secure and Usable Pairing for Heterogeneous IoT Devices.
+CrypTFlow2: Practical 2-Party Secure Inference.
+GAN-Leaks: A Taxonomy of Membership Inference Attacks against Generative Models.
+Analyzing Information Leakage of Updates to Natural Language Models.
+Information Leakage in Embedding Models.
+PPE Circuits: Formal Definition to Software Automation.
+Threshold Password-Hardened Encryption Services.
+Minimal Symmetric PAKE and 1-out-of-N OT from Programmable-Once Public Functions.
+Full Database Reconstruction in Two Dimensions.
+Slimium: Debloating the Chromium Browser with Feature Subsetting.
+You've Changed: Detecting Malicious Browser Extensions through their Update Deltas.
+PMForce: Systematically Analyzing postMessage Handlers at Scale.
+Fill in the Blanks: Empirical Analysis of the Privacy Threats of Browser Form Autofill.
+Lies in the Air: Characterizing Fake-base-station Spam Ecosystem in China.
+VAHunt: Warding Off New Repackaged Android Malware in App-Virtualization's Clothing.
+Deploying Android Security Updates: an Extensive Study Involving Manufacturers, Carriers, and End Users.
+Demystifying Resource Management Risks in Emerging Mobile App-in-App Ecosystems.
+ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts.
+BDoS: Blockchain Denial-of-Service.
+eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts.
+WI is Almost Enough: Contingent Payment All Over Again.
+Private Summation in the Multi-Message Shuffle Model.
+R2DP: A Universal and Automated Approach to Optimizing the Randomization Mechanisms of Differential Privacy for Utility Metrics with No Known Optimal Distributions.
+Estimating g-Leakage via Machine Learning.
+Implementing the Exponential Mechanism with Base-2 Differential Privacy.
+Examining Mirai's Battle over the Internet of Things.
+Enhancing State-of-the-art Classifiers with API Semantics to Detect Evolved Android Malware.
+Towards Attribution in Mobile Markets: Identifying Developer Account Polymorphism.
+Mnemosyne: An Effective and Efficient Postmortem Watering Hole Attack Investigation System.
+Dumbo: Faster Asynchronous BFT Protocols.
+Tight Consistency Bounds for Bitcoin.
+On the Optimality of Optimistic Responsiveness.
+Everything is a Race and Nakamoto Always Wins.
+Security Analysis and Implementation of Relay-Resistant Contactless Payments.
+HACLxN: Verified Generic SIMD Crypto (for all your favourite platforms).
+CheckDP: An Automated and Integrated Approach for Proving Differential Privacy or Finding Precise Counterexamples.
+Asynchronous Remote Key Generation: An Analysis of Yubico's Proposal for W3C WebAuthn.
+SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback.
+FREEDOM: Engineering a State-of-the-Art DOM Fuzzer.
+BlackMirror: Preventing Wallhacks in 3D Online FPS Games.
+Cache-in-the-Middle (CITM) Attacks: Manipulating Sensitive Data in Isolated Execution Environments.
+Deterministic Wallets in a Quantum World.
+SNI-in-the-head: Protecting MPC-in-the-head Protocols against Side-channel Analysis.
+Practical Lattice-Based Zero-Knowledge Proofs for Integer Relations.
+QuantumHammer: A Practical Hybrid Attack on the LUOV Signature Scheme.
+TEMPEST Comeback: A Realistic Audio Eavesdropping Threat on Mixed-signal SoCs.
+When the Differences in Frequency Domain are Compensated: Understanding and Defeating Modulated Replay Attacks on Automatic Speech Recognition.
+AdvPulse: Universal, Synchronization-free, and Targeted Audio Adversarial Attacks via Subsecond Perturbations.
+Harnessing the Ambient Radio Frequency Noise for Wearable Device Pairing.
+PDiff: Semantic-based Patch Presence Testing for Downstream Kernels.
+A Systematic Study of Elastic Objects in Kernel Exploitation.
+iDEA: Static Analysis on the Security of Apple Kernel Drivers.
+Exaggerated Error Handling Hurts! An In-Depth Study and Context-Aware Detection.
+LEAF: A Faster Secure Search Algorithm via Localization, Extraction, and Reconstruction.
+Blinder - Scalable, Robust Anonymous Committed Broadcast.
+Secure Single-Server Aggregation with (Poly)Logarithmic Overhead.
+Fast Database Joins and PSI for Secret Shared Data.
+The Boon and Bane of Cross-Signing: Shedding Light on a Common Practice in Public Key Infrastructures.
+Zombie Awakening: Stealthy Hijacking of Active Domains through DNS Hosting Referral.
+Off-Path TCP Exploits of the Mixed IPID Assignment.
+DNS Cache Poisoning Attack Reloaded: Revolutions with Side Channels.
+Game-Set-MATCH: Using Mobile Devices for Seamless External-Facing Biometric Matching.
+Usage Patterns of Privacy-Enhancing Technologies.
+Text Captcha Is Dead? A Large Scale Deployment and Empirical Study.
+Practical Recommendations for Stronger, More Usable Passwords Combining Minimum-strength, Minimum-length, and Blocklist Requirements.
+Oracle Simulation: A Technique for Protocol Composition with Long Term Shared Secrets.
+The Signal Private Group System and Anonymous Credentials Supporting Efficient Verifiable Encryption.
+Post-Quantum TLS Without Handshake Signatures.
+Clone Detection in Secure Messaging: Improving Post-Compromise Security in Practice.
+A Forensically Sound Method of Identifying Downloaders and Uploaders in Freenet.
+A Qualitative Study of Dependency Management and Its Security Implications.
+Forensic Analysis in Access Control: Foundations and a Case-Study from Practice.
+Logging to the Danger Zone: Race Condition Attacks and Defenses on System Audit Frameworks.
+MP-SPDZ: A Versatile Framework for Multi-Party Computation.
+Is the Classical GMW Paradigm Practical? The Case of Non-Interactive Actively Secure 2PC.
+Ferret: Fast Extension for Correlated OT with Small Communication.
+More Efficient MPC from Improved Triple Generation and Authenticated Garbling.
+Mitigation of Attacks on Email End-to-End Encryption.
+Impersonation-as-a-Service: Characterizing the Emerging Criminal Infrastructure for User Impersonation at Scale.
+VisualPhishNet: Zero-Day Phishing Website Detection by Visual Similarity.
+Dangerous Skills Got Certified: Measuring the Trustworthiness of Skill Certification in Voice Personal Assistant Platforms.
+MuSig-DN: Schnorr Multi-Signatures with Verifiably Deterministic Nonces.
+Verifiable Timed Signatures Made Practical.
+Asynchronous Distributed Key Generation for Computationally-Secure Randomness, Consensus, and Threshold Signatures.
+UC Non-Interactive, Proactive, Threshold ECDSA with Identifiable Aborts.
+A Generic Technique for Automatically Finding Defense-Aware Code Reuse Attacks.
+Methodologies for Quantifying (Re-)randomization Security and Timing under JIT-ROP.
+Finding Cracks in Shields: On the Security of Control Flow Integrity Mechanisms.
+RTFM! Automatic Assumption Discovery and Verification Derivation from Library Document for API Misuse Detection.
+InSpectre: Breaking and Fixing Microarchitectural Vulnerabilities by Formal Analysis.
+Speculative Probing: Hacking Blind in the Spectre Era.
+Déjà Vu: Side-Channel Analysis of Mozilla's NSS.
+TRUSTORE: Side-Channel Resistant Storage for SGX using Intel Hybrid CPU-FPGA.
+DECO: Liberating Web Data Using Decentralized Oracles for TLS.
+Talking with Familiar Strangers: An Empirical Study on HTTPS Context Confusion Attacks.
+The Cookie Hunter: Automated Black-box Auditing for Web Authentication and Authorization Flaws.
+TrafficSliver: Fighting Website Fingerprinting Attacks with Traffic Splitting.
+Lift-and-Shift: Obtaining Simulation Extractable Subversion and Updatable SNARKs Generically.
+Pointproofs: Aggregating Proofs for Multiple Vector Commitments.
+Ligero++: A New Optimized Sublinear IOP.
+Zero Knowledge Proofs for Decision Tree Predictions and Accuracy.
+A 2.1 KHz Zero-Knowledge Processor with BubbleRAM.
+Realistic Threats and Realistic Users: Lessons from the Election.
+PhishBench 2.0: A Versatile and Extendable Benchmarking Framework for Phishing.
+Benchmarking Label Dynamics of VirusTotal Engines.
+VRLifeTime - An IDE Tool to Avoid Concurrency and Memory Bugs in Rust.
+LPET - Mining MS-Windows Software Privilege Escalation Vulnerabilities by Monitoring Interactive Behavior.
+Towards Using Source Code Repositories to Identify Software Supply Chain Attacks.
+Cybersecurity Research and Training for Power Distribution Grids - A Blueprint.
+Continuous and Multiregional Monitoring of Malicious Hosts.
+Facilitating Protocol-independent Industrial Intrusion Detection Systems.
+Bento: Bringing Network Function Virtualization to Tor.
+RIPT - An Efficient Multi-Core Record-Replay System.
+Impact of Energy Consumption Attacks on LoRaWAN-Enabled Devices in Industrial Context.
+A Multi-phased Multi-faceted IoT Honeypot Ecosystem.
+Voice-Indistinguishability - Protecting Voiceprint with Differential Privacy under an Untrusted Server.
+rProfiler - Assessing Insider Influence on Enterprise Assets.
+CCSW'20: 2020 Cloud Computing Security Workshop.
+CPSIOTSEC'20: 2020 Joint Workshop on CPS&IoT Security and Privacy.
+MTD'20: 7th ACM Workshop on Moving Target Defense.
+PPMLP 2020: Workshop on Privacy-Preserving Machine Learning In Practice.
+19th Workshop on Privacy in the Electronic Society (WPES 2020).
+AISec'20: 13th Workshop on Artificial Intelligence and Security.
+ASHES 2020: 4th Workshop on Attacks and Solutions in Hardware Security.
+2nd Workshop on Cyber-Security Arms Race (CYSARM 2020).
+FEAST'20: Fifth Workshop on Forming an Ecosystem Around Software Transformation.
+PLAS'20: 15th Workshop on Programming Languages and Analysis for Security.
+TPDP'20: 6th Workshop on Theory and Practice of Differential Privacy.
