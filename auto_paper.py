@@ -4,11 +4,11 @@ import requests
 from bs4 import BeautifulSoup
 
 # Link
-url = "https://dblp.uni-trier.de/db/conf/ccs/ccs2020.html"
+url = "https://dblp.uni-trier.de/db/conf/uss/uss2021.html"
 # FLAG
 OPEN_KEYWORD_SEARCH = True
 # Keyword
-Key_word = ['Secure', 'Privacy']
+Key_word = ['Signature']
 file_name = url.split("/")[-1].split(".")[0]
 file_type = url.split("/")[-3]
 res = requests.get(url)
@@ -20,6 +20,13 @@ if file_type == "conf":
 
 
 fp = open('paperlink.txt', 'w')
+if file_type == "conf":
+    soup1 = soup.find_all('li', {"class": "entry editor"})
+    for i in soup1:
+        s = i.find('a')['href']+'\n'
+        sci_link = 'https://sci-hub.ren/' + s
+        # print(sci_link)
+        fp.write(sci_link)
 for i in soup2:
     s = i.find('a')['href']+'\n'
     sci_link = 'https://sci-hub.ren/' + s
@@ -44,7 +51,7 @@ downloadlist = []
 select_num = 0
 for i in fpname:
     i = i[:-1]
-    s = i.replace(':', '').replace('?', '').replace('</> ', '')
+    s = i.replace(':', '').replace('?', '').replace('</> ', '').replace('*', '').replace('$', '')
     namelist.append(s)
     # Search
     if OPEN_KEYWORD_SEARCH:
@@ -71,7 +78,7 @@ for line in f:
     if count == downloadlist[select_num]:
         line = line[:-1]
 
-        out_fname = path + namelist[count] + '.pdf'  # filename
+        out_fname = path + file_name.upper() + '-' + namelist[count] + '.pdf'  # filename
         # out_fname = 'paper/' + namelist[count] + '.pdf'  # filename
         if not os.path.exists(out_fname):
             res = requests.get(line)
@@ -81,7 +88,7 @@ for line in f:
             # pdf = news[0]['src']
             news = soup.select('#pdf')
             if news.__len__() == 0:
-                faillist.append(select_num)
+                faillist.append(count)
                 print("failed ...", namelist[count])
             else:
                 pdf = news[0]['src']
